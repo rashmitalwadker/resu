@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/rashmitalwadker/resu.git/static/css/main.feba728d.css",
-    "main.js": "/rashmitalwadker/resu.git/static/js/main.a2a6596b.js",
-    "static/js/453.f19e9853.chunk.js": "/rashmitalwadker/resu.git/static/js/453.f19e9853.chunk.js",
-    "static/media/woman-with-tablet.jpg": "/rashmitalwadker/resu.git/static/media/woman-with-tablet.47b8633c9c57f62a7653.jpg",
-    "static/media/design-desk.jpeg": "/rashmitalwadker/resu.git/static/media/design-desk.c1996f349dc2330e1096.jpeg",
-    "static/media/motion-background.jpg": "/rashmitalwadker/resu.git/static/media/motion-background.162019996b695dde089a.jpg",
-    "static/media/app.png": "/rashmitalwadker/resu.git/static/media/app.28b2c447327ce12212f2.png",
-    "static/media/linkedin.png": "/rashmitalwadker/resu.git/static/media/linkedin.93dcca2529de6b5955c4.png",
-    "index.html": "/rashmitalwadker/resu.git/index.html",
-    "main.feba728d.css.map": "/rashmitalwadker/resu.git/static/css/main.feba728d.css.map",
-    "main.a2a6596b.js.map": "/rashmitalwadker/resu.git/static/js/main.a2a6596b.js.map",
-    "453.f19e9853.chunk.js.map": "/rashmitalwadker/resu.git/static/js/453.f19e9853.chunk.js.map"
+    "main.css": "/rashmitalwadker/resumie.git/static/css/main.feba728d.css",
+    "main.js": "/rashmitalwadker/resumie.git/static/js/main.d09191ac.js",
+    "static/js/453.f19e9853.chunk.js": "/rashmitalwadker/resumie.git/static/js/453.f19e9853.chunk.js",
+    "static/media/woman-with-tablet.jpg": "/rashmitalwadker/resumie.git/static/media/woman-with-tablet.47b8633c9c57f62a7653.jpg",
+    "static/media/design-desk.jpeg": "/rashmitalwadker/resumie.git/static/media/design-desk.c1996f349dc2330e1096.jpeg",
+    "static/media/motion-background.jpg": "/rashmitalwadker/resumie.git/static/media/motion-background.162019996b695dde089a.jpg",
+    "static/media/app.png": "/rashmitalwadker/resumie.git/static/media/app.28b2c447327ce12212f2.png",
+    "static/media/linkedin.png": "/rashmitalwadker/resumie.git/static/media/linkedin.93dcca2529de6b5955c4.png",
+    "index.html": "/rashmitalwadker/resumie.git/index.html",
+    "main.feba728d.css.map": "/rashmitalwadker/resumie.git/static/css/main.feba728d.css.map",
+    "main.d09191ac.js.map": "/rashmitalwadker/resumie.git/static/js/main.d09191ac.js.map",
+    "453.f19e9853.chunk.js.map": "/rashmitalwadker/resumie.git/static/js/453.f19e9853.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.feba728d.css",
-    "static/js/main.a2a6596b.js"
+    "static/js/main.d09191ac.js"
   ]
 }
